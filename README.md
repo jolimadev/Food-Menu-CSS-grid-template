@@ -8,3 +8,8 @@ Hello! check out this link below, to see my project made it with <img align="cen
 https://jolimadev.github.io/Food-Menu-CSS-grid-template/
 # Food Menu CSS grid template
  
+<br>
+<h2>IMAGES:</h2>
+![image](https://github.com/jolimadev/Food-Menu-CSS-grid-template/assets/84105167/9aebfb21-ed86-48f1-b600-07a2828a7ee7)
+<br>
+![image](https://github.com/jolimadev/Food-Menu-CSS-grid-template/assets/84105167/052bc6ed-d740-46f6-b955-89170da3ff9d)
